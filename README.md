@@ -1,4 +1,4 @@
-# ML-AI-learning-Journey
+# ML-AI-learning-Projects
 
 Welcome to my AI and Machine Learning journey! This repository contains projects I’ve worked on as I learn and explore the fields of Artificial Intelligence and Machine Learning.
 
