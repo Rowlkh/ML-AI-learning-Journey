@@ -1,6 +1,7 @@
 # ML-AI-learning-Projects
 
-Welcome to my AI and Machine Learning journey! This repository contains projects I’ve worked on as I learn and explore the fields of Artificial Intelligence and Machine Learning.
+This repository contains various **AI** and **Machine Learning** projects using **Python**. It includes projects related to **Deep Learning**, **Data Science**, **Natural Language Processing (NLP)**, and other AI techniques for real-world applications.
+
 
 ## Projects
 
